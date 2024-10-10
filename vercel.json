@@ -1,5 +1,11 @@
 {
   "version": 2,
+  "functions": {
+    "src/index.py": {
+      "maxDuration": 10,
+      "memory": 512
+    }
+  },
   "builds": [
     {
       "src": "src/index.py",
